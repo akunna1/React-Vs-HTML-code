@@ -9,8 +9,8 @@ Comparing how to write/create pages for web apps using react.js and html. The ex
    - **JSX:** JavaScript XML syntax used within React. Curly braces `{}` are used to embed JavaScript expressions.
 
 2. **Dynamic Content:**
-   - **HTML:** To insert dynamic content, you might use templating languages or server-side rendering techniques (e.g., `{{ user.username }}`).
-   - **JSX:** You directly embed JavaScript expressions using curly braces `{}`, such as `{user.username}`.
+   - **HTML:** To insert dynamic content, one might use templating languages or server-side rendering techniques (e.g., `{{ user.username }}`).
+   - **JSX:** One directly embeds JavaScript expressions using curly braces `{}`, such as `{user.username}`.
 
 3. **Routing:**
    - **HTML:** Uses standard `<a>` tags with `href` attributes for navigation.
