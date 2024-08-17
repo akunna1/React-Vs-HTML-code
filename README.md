@@ -1,5 +1,5 @@
 # React-Vs-Html-code
-Comparing writing pages for web apps using react and html. The example (i.e index.html and index.jsx) used it to create a navigation bar.
+Comparing how to write/create pages for web apps using react.js and html. The example (i.e index.html and index.jsx) used it to create a navigation bar.
 
 **Differences:**
 ### Key Differences
