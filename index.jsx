@@ -1,6 +1,6 @@
 // Navbar.jsx
 import React from 'react';
-import { Link } from 'react-router-dom'; // Ensure you have react-router-dom installed
+import { Link } from 'react-router-dom'; // install react-router-dom using npm
 
 const Navbar = ({ user }) => {
   return (
